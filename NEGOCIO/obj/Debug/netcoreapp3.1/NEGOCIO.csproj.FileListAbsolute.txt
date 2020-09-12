@@ -1,0 +1,16 @@
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\NEGOCIO.deps.json
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\NEGOCIO.dll
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\NEGOCIO.pdb
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\DATOS.dll
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\ENTIDAD.dll
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\Mensaje.dll
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\DATOS.pdb
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\ENTIDAD.pdb
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\bin\Debug\netcoreapp3.1\Mensaje.pdb
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.csprojAssemblyReference.cache
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.AssemblyInfoInputs.cache
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.AssemblyInfo.cs
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.csproj.CopyComplete
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.dll
+F:\PROYECTOS\SYCB\SYC\NEGOCIO\obj\Debug\netcoreapp3.1\NEGOCIO.pdb

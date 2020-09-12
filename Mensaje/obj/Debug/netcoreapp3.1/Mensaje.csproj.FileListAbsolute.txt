@@ -1,0 +1,8 @@
+F:\PROYECTOS\SYCB\SYC\Mensaje\bin\Debug\netcoreapp3.1\Mensaje.deps.json
+F:\PROYECTOS\SYCB\SYC\Mensaje\bin\Debug\netcoreapp3.1\Mensaje.dll
+F:\PROYECTOS\SYCB\SYC\Mensaje\bin\Debug\netcoreapp3.1\Mensaje.pdb
+F:\PROYECTOS\SYCB\SYC\Mensaje\obj\Debug\netcoreapp3.1\Mensaje.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\SYCB\SYC\Mensaje\obj\Debug\netcoreapp3.1\Mensaje.AssemblyInfoInputs.cache
+F:\PROYECTOS\SYCB\SYC\Mensaje\obj\Debug\netcoreapp3.1\Mensaje.AssemblyInfo.cs
+F:\PROYECTOS\SYCB\SYC\Mensaje\obj\Debug\netcoreapp3.1\Mensaje.dll
+F:\PROYECTOS\SYCB\SYC\Mensaje\obj\Debug\netcoreapp3.1\Mensaje.pdb

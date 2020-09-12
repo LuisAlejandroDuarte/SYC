@@ -1,0 +1,12 @@
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\bin\Debug\netcoreapp3.1\ENTIDAD.deps.json
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\bin\Debug\netcoreapp3.1\ENTIDAD.dll
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\bin\Debug\netcoreapp3.1\ENTIDAD.pdb
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\bin\Debug\netcoreapp3.1\Mensaje.dll
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\bin\Debug\netcoreapp3.1\Mensaje.pdb
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.csprojAssemblyReference.cache
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.AssemblyInfoInputs.cache
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.AssemblyInfo.cs
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.csproj.CopyComplete
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.dll
+F:\PROYECTOS\SYCB\SYC\ENTIDAD\obj\Debug\netcoreapp3.1\ENTIDAD.pdb

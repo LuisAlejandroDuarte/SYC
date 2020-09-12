@@ -1,0 +1,31 @@
+.filas {
+    display: inline-block;
+}
+
+.columna1 {
+    
+    width:33%;
+    height: 12rem;
+
+}
+.columna2 {
+    width:33%;
+    height: 12rem;
+    
+}
+.columna3 {
+    width:33%;
+    height: 12rem;
+    
+}
+
+
+@media only screen and (max-width: 32.9375rem){ 
+    .nuevo-icono .texto small
+    {
+       font-size: 1.5rem;
+    }
+    .row >.col >.header >.header-text {        
+        width: 70%;
+    }
+}

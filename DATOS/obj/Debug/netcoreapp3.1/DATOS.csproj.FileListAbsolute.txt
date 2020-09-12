@@ -1,0 +1,14 @@
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\DATOS.deps.json
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\DATOS.dll
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.csprojAssemblyReference.cache
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfoInputs.cache
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.AssemblyInfo.cs
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\DATOS.pdb
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\ENTIDAD.dll
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\Mensaje.dll
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\ENTIDAD.pdb
+F:\PROYECTOS\SYCB\SYC\DATOS\bin\Debug\netcoreapp3.1\Mensaje.pdb
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.csproj.CopyComplete
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.dll
+F:\PROYECTOS\SYCB\SYC\DATOS\obj\Debug\netcoreapp3.1\DATOS.pdb
